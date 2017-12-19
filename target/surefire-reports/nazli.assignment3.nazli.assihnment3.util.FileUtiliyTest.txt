@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: nazli.assignment3.nazli.assihnment3.util.FileUtiliyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.064 sec - in nazli.assignment3.nazli.assihnment3.util.FileUtiliyTest
